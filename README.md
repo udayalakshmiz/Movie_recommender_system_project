@@ -121,6 +121,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 4. Run all cells sequentially
 
 **Project Structure**
+
 Movie-Recommendation-System/
 Datasets/
  movies.csv

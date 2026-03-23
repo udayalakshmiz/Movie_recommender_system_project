@@ -30,8 +30,6 @@ The system suggests movies based on:
   * `movieId`
   * `rating`
 
----
-
 **TMDB Dataset (Content-Based Filtering)**
 
 * Contains movie metadata
@@ -124,14 +122,12 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 **Project Structure**
 Movie-Recommendation-System/
-│
-├── Datasets/
-│   ├── movies.csv
-│   ├── ratings.csv
-│   ├── tmdb_5000_movies.csv
-│
-├── notebook.ipynb
-├── README.md
+Datasets/
+ movies.csv
+ ratings.csv
+ tmdb_5000_movies.csv
+notebook.ipynb
+README.md
 
 **Conclusion**
 

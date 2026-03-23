@@ -122,13 +122,8 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 **Project Structure**
 
-Movie-Recommendation-System/
-Datasets/
- movies.csv
- ratings.csv
- tmdb_5000_movies.csv
-notebook.ipynb
-README.md
+<img width="350" height="307" alt="image" src="https://github.com/user-attachments/assets/c4c35f0f-d710-4bf2-8acb-1cf7a72ad4ca" />
+
 
 **Conclusion**
 

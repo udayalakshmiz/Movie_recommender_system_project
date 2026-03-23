@@ -135,6 +135,5 @@ This project demonstrates how both collaborative and content-based filtering tec
 
 
 **Author**
-Zagabathuni Udaya Lakshmi
 
-* Your Name
+Zagabathuni Udaya Lakshmi
